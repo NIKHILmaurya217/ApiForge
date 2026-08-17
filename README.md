@@ -6,6 +6,9 @@ First, run the development server:
 
 ```bash
 cd apiforge
+
+npm npm install
+
 npm run dev
 # or
 yarn dev
